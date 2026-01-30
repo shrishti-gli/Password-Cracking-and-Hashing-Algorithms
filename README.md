@@ -1,3 +1,26 @@
+## 🌸 Introduction
+
+This project was developed as part of an academic/internship program to
+study **password security mechanisms** and **authentication vulnerabilities**.
+
+It demonstrates:
+- Secure password hashing (with and without salting)
+- Comparison of hashing algorithms such as MD5, SHA-256, SHA-512, and bcrypt
+- **Simulation-based analysis** of common password weaknesses
+- Why strong password policies are essential for cybersecurity
+
+⚠️ This project is intended strictly for **educational and ethical purposes**.
+No real user credentials are used or targeted.
+## 🧠 Ethical Use & Disclaimer
+
+This project does NOT promote or support unauthorized access, hacking, or
+illegal activities.
+
+All demonstrations are performed on **dummy data** in a controlled
+environment to understand security risks and improve defensive practices.
+
+The goal is awareness, education, and secure system design.
+
 # Password Cracking and Hashing Algorithms 🔐
 
 <p align="center">
